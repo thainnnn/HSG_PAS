@@ -1,0 +1,6 @@
+uses crt;
+
+BEGIN
+
+
+END.

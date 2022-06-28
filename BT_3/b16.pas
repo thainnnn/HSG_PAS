@@ -1,0 +1,1 @@
+uses crt; var i : integer; BEGIN for i := 1 to 255 do write(CHR(i), ' '); readln; END.
